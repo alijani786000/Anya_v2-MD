@@ -61,11 +61,11 @@
        },
        "Welcome_Msg": {
            "description": "Welcome message for users in groups, $user for user, $prefix for prefix",
-           "required": false
+           "required": true
        },
        "Left_Msg": {
            "description": "Goodbye message for users in groups, $user for user, $prefix for prefix",
-           "required": false
+           "required": true
        }
     },
    "formation": {
