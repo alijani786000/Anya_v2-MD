@@ -63,14 +63,14 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "QASIM  ALI  KASHI", 
-  author: process.env.Author || "@QASIM  ALI  KASHI",
+  botname: process.env.BotName || "😘 ALI ", 
+  author: process.env.Author || "@😘 ALI  ",
   packname: process.env.PackName || "QASIM  ALI  KASHI",
   socialLink: process.env.Web || "https://github.com/PikaBotz",
   footer: process.env.Footer || "© QASIM  ALI  KASHI",
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "QASIM  ALI  KASHI",
+  ownername: process.env.Owner_Name || "😘 ALI ",
   ownernumber: process.env.Owner_Number || "923021614498",
   instagramId: process.env.Insta || "8.08_only_mine",
   warns: process.env.Warns_Limits || 3,
